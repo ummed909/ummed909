@@ -1,4 +1,4 @@
-![logo](https://github.com/ummed909/ummed909/blob/main/NewBanner.gif)
+![logo](https://app-tipps.com/wp-content/uploads/2023/06/banner-github.png)
 <h1 align="center">Hi 👋, I'm Ummed Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
