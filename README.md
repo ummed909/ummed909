@@ -1,6 +1,6 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Ummed Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Machine Learning Engineer and Data Scientist</h3>
 
 <img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **RoadLink(online transportation service)**
+- 🔭 I’m currently improving my **Poblem solving skill**
 
-- 🌱 I’m currently learning **Full stack Web development**
+- 🌱 I’m currently learning **Machine Learning and Statistics**
 
-- 💬 Ask me about **React js and Data Structures**
+- 💬 Ask me about **DSA and Supervised Learning**
 
 - 📫 How to reach me **ummedc184@gmail.com**
 
