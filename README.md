@@ -1,8 +1,9 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<p align="center">
+  <img src="https://github.com/ummed909/Notepen/blob/master/Optical%20Illusions%20Art.gif" alt="Cool GIF" width="800" height="500">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ummed Choudhary</h1>
 <h3 align="center">Aspiring Machine Learning Engineer and Data Scientist</h3>
-
-<img align="right" alt="coding" width=400 src="https://pin.it/5SEgy8aPJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummed909&label=Profile%20views&color=0e75b6&style=flat" alt="ummed909" /> </p>
 
@@ -15,7 +16,7 @@
 - 💬 Ask me about **DSA and Supervised Learning**
 
 - 📫 How to reach me **ummedc184@gmail.com**
-
+](https://pin.it/5SEgy8aPJ)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ummed choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ummed choudhary" height="30" width="40" /></a>
